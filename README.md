@@ -10,7 +10,7 @@
   <img align="center" alt="luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="luis-pic" height="150" style="border-radius:50px;"       src="https://cdn.discordapp.com/attachments/738487124323729410/1013471455473844396/1f2203fd-0595-429a-991e-a587b0f217d5.png">
+  <img align="right" alt="luis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/738487124323729410/1013471455473844396/1f2203fd-0595-429a-991e-a587b0f217d5.png">
 </div>
   
   ##
@@ -23,4 +23,5 @@
   <a href="https://www.linkedin.com/in/luis-machado-a09922205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
