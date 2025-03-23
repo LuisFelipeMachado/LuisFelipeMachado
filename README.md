@@ -1,6 +1,5 @@
-## 👋 Oii, eu sou o Luis Felipe!
-### 👋 Hi, I'm Luis Felipe.
-I'm a development intern seeking opportunities to expand my skills. I have hands-on experience with HTML, CSS, PHP (Laravel), PostgreSQL, Docker, Linux, and Vue.js (2/3). I focus on building robust solutions, integrating APIs, and implementing security best practices with automated testing. I'm committed to continuous learning, collaboration, and making solid contributions to innovative projects.
+## 👋 Hi, I'm Luis Felipe.
+### I'm a development intern seeking opportunities to expand my skills. I have hands-on experience with HTML, CSS, PHP (Laravel), PostgreSQL, Docker, Linux, and Vue.js (2/3). I focus on building robust solutions, integrating APIs, and implementing security best practices with automated testing. I'm committed to continuous learning, collaboration, and making solid contributions to innovative projects.
 
 <div align="center">
   <a href="https://github.com/LuisFelipeMachado">
