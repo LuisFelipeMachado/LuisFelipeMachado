@@ -1,5 +1,13 @@
-## 👋 Hi, I'm Luis Machado.
-### I'm a development intern seeking opportunities to expand my skills. I have hands-on experience with HTML, CSS, PHP (Laravel), PostgreSQL, Docker, Linux, and Vue.js (2/3). I focus on building robust solutions, integrating APIs, and implementing security best practices with automated testing. I'm committed to continuous learning, collaboration, and making solid contributions to innovative projects.
+## 👋 Olá, eu sou o Luis Machado
+
+### 💼 Desenvolvedor focado em soluções financeiras modernas, seguras e escaláveis
+
+Atuo no desenvolvimento de **sistemas financeiros** com foco em **arquitetura moderna**, **segurança**, **performance** e **escalabilidade**.  
+Tenho experiência prática na construção de **APIs robustas**, integração entre serviços, automação de testes e infraestrutura baseada em containers.
+
+Sou comprometido com **boas práticas**, **aprendizado contínuo** e entrega de soluções sólidas que geram valor real para o negócio.
+
+---
 
 <div align="center">
   <a href="https://github.com/LuisFelipeMachado">
@@ -10,37 +18,87 @@
 
 ---
 
-### 💻 Technologies I work with:
+## 🏦 Atuação principal
+
+**Desenvolvimento de soluções financeiras**, incluindo:
+
+- APIs REST para operações financeiras
+- Microsserviços financeiros
+- Integração com sistemas e serviços externos
+- Arquitetura segura e escalável
+- Automação de testes e pipelines de deploy
+
+---
+
+## 💻 Stacks utilizadas
+
+### 🔧 Backend
+- **Laravel**
+- **PHP 8.3**
+- **APIs REST**
+- **AJAX**
+- **Microsserviços financeiros**
+
+### 🗄️ Banco de Dados
+- **MySQL**
+- **MariaDB**
+
+### 🎨 Frontend
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+
+### 🧪 Testes Automatizados
+- **PHPUnit**
+- **Cypress**
+
+### ☁️ Infra & DevOps
+- **Docker**
+- **Linux**
+- **Cloudflare**
+- **CI/CD**
+
+---
+
+## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Luis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Luis-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ---
 
-### 🌐 Where to find me:
+## 🌐 Onde me encontrar
 
 <div>
-  <a href="https://www.youtube.com/channel/UCyvCCUgf92ygHDSzhX7qgmw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/luisfmach" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/luis-machado-a09922205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.youtube.com/channel/UCyvCCUgf92ygHDSzhX7qgmw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://instagram.com/luisfmach" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luis-machado-a09922205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
-📧 **Contact email:** luisfdsmachadojob@gmail.com
+📧 **Contato:** luisfdsmachadojob@gmail.com
 
 ---
 
-### 📊 Contributions in motion:
+## 📊 Contribuições em movimento
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-🚀 *Always looking to evolve, learn new things and share knowledge. Let's code and dominate the world of technology!*
+🚀 *Sempre evoluindo, aprendendo e construindo soluções financeiras confiáveis e escaláveis.*
